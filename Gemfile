@@ -9,6 +9,8 @@ gem 'devise'
 gem 'twitter-bootstrap-rails'
 #make devise pretty with bootstrap
 gem 'devise-bootstrap-views'
+#get stock prices with stock quotes
+gem 'stock_quote'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
